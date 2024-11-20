@@ -298,5 +298,19 @@ Recommendations:
 
 
 ```
+// added a bit latter 
 
+### Example 2
+**Scenario (Image)**: A photo shows a clean and organized workstation with a worker wearing full protective gear. Lighting is excellent, and all emergency pathways are clear.
+
+```text
+
+SAFE
+
+Recommendations:
+1. Conduct periodic safety drills to ensure all workers know evacuation procedures.
+2. Add anti-fatigue mats to reduce strain for workers standing for extended periods.
+3. Install real-time monitoring sensors to track air quality for long-term health benefits.
+
+```
 
