@@ -88,3 +88,8 @@ Recommendations:
    - Regularly assess and optimize workspace organization to improve safety conditions.
 ```
 
+
+
+scenario: A manufacturing worker is 
+operating a press machine without safety guards installed. Nearby, another worker is wearing loose clothing while working near rotating machinery. The floor is clean, but there are no safety signs, and emergency exits are partially 
+blocked by storage materials.
